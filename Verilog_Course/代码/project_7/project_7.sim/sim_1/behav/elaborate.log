@@ -1,0 +1,16 @@
+Vivado Simulator 2017.1
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2017.1/bin/unwrapped/win64.o/xelab.exe -wto 20c0a7a409cc44f983016411d0931213 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_cseladd32_behav xil_defaultlib.tb_cseladd32 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-1783] select index -1 into carry is out of bounds [C:/Users/Lenovo/project_7/project_7.srcs/sources_1/new/cseladd32.v:36]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.add1
+Compiling module xil_defaultlib.add16_default
+Compiling module xil_defaultlib.cseladd32
+Compiling module xil_defaultlib.tb_cseladd32
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_cseladd32_behav

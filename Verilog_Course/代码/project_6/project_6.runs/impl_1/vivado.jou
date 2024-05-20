@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Sun Nov 26 19:11:08 2023
+# Process ID: 27212
+# Current directory: C:/Users/Lenovo/project_6/project_6.runs/impl_1
+# Command line: vivado.exe -log add32.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source add32.tcl -notrace
+# Log file: C:/Users/Lenovo/project_6/project_6.runs/impl_1/add32.vdi
+# Journal file: C:/Users/Lenovo/project_6/project_6.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source add32.tcl -notrace

@@ -1,0 +1,8 @@
+Vivado Simulator 2017.1
+Time resolution is 1 ps
+ina: 10101010, inb: 00110011
+sumab: 11011101, sumflag: 0
+leftshiftA: 00000000
+lessflag: 0, equalflag: 0
+bitXorflag: 10011001
+$finish called at time : 20 ns : File "C:/Users/Lenovo/project_2/project_2.srcs/sim_1/new/ds.v" Line 69

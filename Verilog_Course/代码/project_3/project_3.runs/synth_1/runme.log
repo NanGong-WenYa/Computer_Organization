@@ -1,0 +1,31 @@
+
+*** Running vivado
+    with args -log add1_tb.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source add1_tb.tcl
+
+
+****** Vivado v2017.1 (64-bit)
+  **** SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+  **** IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+    ** Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+
+source add1_tb.tcl -notrace
+Command: synth_design -top add1_tb -part xc7a200tfbg676-2
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a200t-fbg676'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a200t-fbg676'
+INFO: Launching helper process for spawning children vivado processes
+INFO: Helper process launched with PID 1048 
+---------------------------------------------------------------------------------
+Starting Synthesize : Time (s): cpu = 00:00:01 ; elapsed = 00:00:02 . Memory (MB): peak = 349.988 ; gain = 82.055
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'add1_tb' [C:/Users/Lenovo/project_3/project_3.srcs/sources_1/new/add1.v:3]
+ERROR: [Synth 8-439] module 'add1' not found [C:/Users/Lenovo/project_3/project_3.srcs/sources_1/new/add1.v:10]
+ERROR: [Synth 8-285] failed synthesizing module 'add1_tb' [C:/Users/Lenovo/project_3/project_3.srcs/sources_1/new/add1.v:3]
+---------------------------------------------------------------------------------
+Finished Synthesize : Time (s): cpu = 00:00:01 ; elapsed = 00:00:03 . Memory (MB): peak = 390.066 ; gain = 122.133
+---------------------------------------------------------------------------------
+synthesize failed
+2 Infos, 0 Warnings, 0 Critical Warnings and 3 Errors encountered.
+synth_design failed
+ERROR: [Common 17-69] Command failed: Vivado Synthesis failed
+INFO: [Common 17-206] Exiting Vivado at Wed Nov 22 19:03:01 2023...

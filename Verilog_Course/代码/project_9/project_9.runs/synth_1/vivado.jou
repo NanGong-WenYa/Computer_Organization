@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Wed Dec  6 20:09:32 2023
+# Process ID: 44636
+# Current directory: C:/Users/Lenovo/project_9/project_9.runs/synth_1
+# Command line: vivado.exe -log mult_32bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mult_32bit.tcl
+# Log file: C:/Users/Lenovo/project_9/project_9.runs/synth_1/mult_32bit.vds
+# Journal file: C:/Users/Lenovo/project_9/project_9.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source mult_32bit.tcl -notrace

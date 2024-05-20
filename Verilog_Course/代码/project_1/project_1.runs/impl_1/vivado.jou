@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Wed Nov  8 21:03:16 2023
+# Process ID: 12732
+# Current directory: C:/Users/Lenovo/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log myadder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source myadder.tcl -notrace
+# Log file: C:/Users/Lenovo/project_1/project_1.runs/impl_1/myadder.vdi
+# Journal file: C:/Users/Lenovo/project_1/project_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source myadder.tcl -notrace

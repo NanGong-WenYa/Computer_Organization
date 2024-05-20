@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Lenovo/project_1/project_1.sim/sim_1/synth/timing/tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module myadder
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Lenovo/project_1/project_1.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
+ERROR: [VRFC 10-91] inv is not declared [C:/Users/Lenovo/project_1/project_1.srcs/sim_1/new/tb.v:37]
+ERROR: [VRFC 10-1040] module tb ignored due to previous errors [C:/Users/Lenovo/project_1/project_1.srcs/sim_1/new/tb.v:23]

@@ -1,0 +1,4 @@
+Vivado Simulator 2017.1
+Time resolution is 1 ps
+Input: a=abcdeff1, b=12345678
+$finish called at time : 100 ns : File "C:/Users/Lenovo/project_7/project_7.srcs/sim_1/new/tb.v" Line 26
